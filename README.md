@@ -20,7 +20,7 @@
 - `yarn add --dev http-server`
 - `yarn add --dev prettier`
 
-### Recourses:
+### Resources:
 - [MetaMask](https://docs.metamask.io/guide/mobile-best-practices.html#the-provider-window-ethereum)
 
 - Ethers-docs:
